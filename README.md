@@ -7,4 +7,3 @@
 - 📫 How to reach me: lottierugg@gmail.com
 - 😄 Pronouns: she/her.
 - ⚡ Fun fact: My next gig is Tom Jones (it's not unsual)
-
