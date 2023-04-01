@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on a full-stack e-commerce project with React and MongoDB as part of my studies with iO Academy.
-- 🌱 I’m currently learning with Eyup Skills Academy in Sheffield, a 16 week full-stack bootcamp.
-- 🤔 I’m looking for a job as a full-stack developer!
+- 🔭 I’m currently working as a Software Engineer in Sheffield.
+- 🌱 I am taking a Java course.
 - 📫 How to reach me: lottierugg@gmail.com
 - 😄 Pronouns: she/her.
-- ⚡ Fun fact: My next gig is Tom Jones (it's not unsual)
+- ⚡ Fun fact: I can moonwalk. 
